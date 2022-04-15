@@ -9,6 +9,7 @@ import { Table } from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Grid } from "@mui/material";
 import TextField from '@mui/material/TextField';
+import './index.css'
 
 
 class CRUD extends React.Component {
