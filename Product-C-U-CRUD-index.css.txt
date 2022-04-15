@@ -1,0 +1,44 @@
+.Box {
+  text-align: center;
+  margin-left: 35%;
+  font-size: 35px;
+}
+
+label {
+  font-size: 25px;
+  margin-left: 35%;
+
+}
+
+.input1 {
+  margin-left: 5.6%
+}
+
+.input2 {
+  margin-left: 3%;
+
+}
+
+.input3 {
+  margin-left: 6.3%;
+
+}
+
+.Submitbutton {
+  margin-left: 45%;
+  margin-top: 20px;
+}
+
+.form {
+  margin-top: 3%;
+}
+
+.grid {
+  margin-left: 30%;
+  padding-top: 30px;
+}
+
+thead {
+  text-align: center;
+  font-weight: bold;
+}
