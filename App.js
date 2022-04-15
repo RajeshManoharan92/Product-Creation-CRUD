@@ -110,7 +110,6 @@ class CRUD extends React.Component {
             <div className="Submitbutton">
               <Stack spacing={2} direction="row">
                 <Button variant="contained" type="submit">submit</Button>
-                <Button variant="contained" type="button">Reset</Button>
               </Stack>
             </div> <br></br>
           </form>
